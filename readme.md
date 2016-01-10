@@ -3,5 +3,8 @@ Welcome to the Travel Hacking Quiz Template! For this particular project, I'm go
 
 todd.squitieri@alumni.newschool.edu
 
-### Latest Updates - 01/09/2016
+## Latest Update - 01/10/2016
+Created a scoring system and a results page after the user submits the answers. This was all done with for-loops in the js file.
+
+### 01/09/2016
 Added *br* tags to most of the form to make it look prettier!
